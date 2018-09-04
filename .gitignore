@@ -95,3 +95,13 @@ ENV/
 .DS_Store
 
 samples/outreach/blogs/segmentation_blogpost/carvana-image-masking-challenge/
+
+# protos
+research/object_detection/protos/
+research/bin/
+research/include/
+research/pycocotools/
+research/readme.txt
+
+# swp files
+*.swp
