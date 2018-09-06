@@ -7,5 +7,18 @@ Notes:
   - pip is not compatible with Python3.6, I used Python3.5 instead.
 
 
+## General benchmark test setting
+  - download pretrained model weights into:
+    `research/object_detection/PretrainedCkpts/`
+  - set the configuration file
+  - set the path to store the experiment log and checkpoints
+  - run the training-evaluating bash script
+
+
+## benchmark RetinaNet
+   run `research/train_retinanet.sh`
+
+
+
 Referece:
   - https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md#Manual-protobuf-compiler-installation-and-usage 

@@ -105,3 +105,6 @@ research/readme.txt
 
 # swp files
 *.swp
+
+research/object_detection/PretrainedCkpts
+research/object_detection/experiments
